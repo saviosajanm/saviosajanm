@@ -13,7 +13,9 @@ I am a determined young mind with a desire to learn and work in Software Develop
 - [Personal Projects](#study-projects)
 	+ [Algorithms Training 3.0 by Yandex](#Analysis-on-ReelViews-Movie-Reviews)
 
-## Portfolio Projects
+---
+
+## College Projects
 
 ### Video Summarization Modification
 * College Team project on improvement of an existing video summarization application using different ML models to get better results -> [Link](https://github.com/saviosajanm/VideoSummarization)
@@ -23,6 +25,8 @@ I am a determined young mind with a desire to learn and work in Software Develop
 
 ### Flask Application for smartphone recommendations
 * College Team project on smartphone recommendations for users -> [Link](https://github.com/saviosajanm/SmartphoneRecommendation/tree/main)
+
+---
 
 ## Personal Projects
 
