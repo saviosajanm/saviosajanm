@@ -13,6 +13,7 @@ I am a determined young mind with a desire to learn and work in Software Develop
 - [Personal Projects](#personal-projects)
 	+ [Analysis on ReelViews Movie Reviews](#Analysis-on-ReelViews-Movie-Reviews)
 	+ [Personal App for tracking Time Table](#Personal-App-for-tracking-Time-Table)
+ 	+ [Web Scraping of 1mg website](#Web-Scraping-of-1mg-website)
 
 ---
 
