@@ -10,8 +10,8 @@ I am a determined young mind with a desire to learn and work in Software Develop
 	+ [Video Summarization Modification](#Video-Summarization-Modification)
 	+ [Chatbot for College course registration assistance](#Chatbot-for-College-course-registration-assistance)
 	+ [Flask Application for smartphone recommendations](#Flask-Application-for-smartphone-recommendations)
-- [Personal Projects](#study-projects)
-	+ [Algorithms Training 3.0 by Yandex](#Analysis-on-ReelViews-Movie-Reviews)
+- [Personal Projects](#personal-projects)
+	+ [Analysis on ReelViews Movie Reviews](#Analysis-on-ReelViews-Movie-Reviews)
 
 ---
 
