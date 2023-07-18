@@ -32,9 +32,14 @@ College Team project on smartphone recommendations for users -> [Link](https://g
 ## Personal Projects
 
 ### Analysis on ReelViews Movie Reviews
-My Analysis on ReelViews Movie Reviews from Kaggle -> [Link](https://github.com/saviosajanm/My_Portfolio/blob/main/analysis-on-reelview-reviews-author-savio-sajan.ipynb), ReelViews Website -> [Link](https://www.reelviews.net/)
+My Analysis on ReelViews Movie Reviews from Kaggle -> [Link](https://github.com/saviosajanm/My_Portfolio/blob/main/Notebooks/analysis-on-reelview-reviews-author-savio-sajan.ipynb), ReelViews Website -> [Link](https://www.reelviews.net/)
 
 ### Personal App for tracking Time Table
 A React-Native app to track time table timings -> [Link](https://github.com/saviosajanm/ConvApp/)
+
+### Web Scraping of 1mg website
+A python notebook to list out different drugs sold in 1mg.com as well as their features and prices, and then be able to store all the information in a .csv file -> [Link](https://github.com/saviosajanm/My_Portfolio/blob/main/Notebooks/Web_Scraping_of_1mg_website_Savio_Sajan.ipynb)
+
+
 
 
