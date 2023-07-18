@@ -12,6 +12,7 @@ I am a determined young mind with a desire to learn and work in Software Develop
 	+ [Flask Application for smartphone recommendations](#Flask-Application-for-smartphone-recommendations)
 - [Personal Projects](#personal-projects)
 	+ [Analysis on ReelViews Movie Reviews](#Analysis-on-ReelViews-Movie-Reviews)
+	+ [Personal App for tracking Time Table](#Personal-App-for-tracking-Time-Table)
 
 ---
 
@@ -32,5 +33,8 @@ College Team project on smartphone recommendations for users -> [Link](https://g
 
 ### Analysis on ReelViews Movie Reviews
 My Analysis on ReelViews Movie Reviews from Kaggle -> [Link](https://github.com/saviosajanm/My_Portfolio/blob/main/analysis-on-reelview-reviews-author-savio-sajan.ipynb), ReelViews Website -> [Link](https://www.reelviews.net/)
+
+### Personal App for tracking Time Table
+A React-Native app to track time table timings -> [Link](https://github.com/saviosajanm/ConvApp/)
 
 
