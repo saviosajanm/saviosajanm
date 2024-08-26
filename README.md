@@ -10,6 +10,7 @@ I am a determined young mind with a desire to learn and desire to work in the fi
 	+ [Video Summarization Modification](#Video-Summarization-Modification)
 	+ [Chatbot for College course registration assistance](#Chatbot-for-College-course-registration-assistance)
 	+ [Flask Application for smartphone recommendations](#Flask-Application-for-smartphone-recommendations)
+ 	+ [Flask Application for Expense Tracking with AI](#Flask-Application-for-Expense-Tracking-with-AI)
 - [Personal Projects](#personal-projects)
 	+ [Analysis on ReelViews Movie Reviews](#Analysis-on-ReelViews-Movie-Reviews)
 	+ [Personal App for tracking Time Table](#Personal-App-for-tracking-Time-Table)
@@ -28,6 +29,9 @@ College Team project on a course registration support chatbot for students in ou
 
 ### Flask Application for smartphone recommendations
 College Team project on smartphone recommendations for users -> [Link](https://github.com/saviosajanm/SmartphoneRecommendation/tree/main)
+
+### Flask Application for Expense Tracking with AI
+College Solo project on tracking the income and expenditure for users as well as generating predictions for the same using Tensorflow -> [Link](https://github.com/saviosajanm/EXPENSE-TRACKER)
 
 ---
 
